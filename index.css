@@ -1,0 +1,19 @@
+body {
+    font-size: 15px;
+}
+
+#tiles {
+    width: 100%;
+}
+
+#tile {
+    text-align: center;
+    width: 30%;
+    float: left;
+    background: #dddada;
+    border: 20px solid white;
+}
+
+#tile img {
+    border-radius: 50%;
+}
